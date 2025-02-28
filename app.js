@@ -15,6 +15,8 @@ const createPeon = function() {
 createPeon()
 console.log(playerBarracks)
 
+//little change//
+
 //Objects//
 // const Player = {
 
