@@ -1,3 +1,5 @@
+//Castle Battle by James Jones, Sterling Griffin, Brice McKeel
+
 //Gets user input//
 const prompt = require('prompt-sync')();
 const readlineSync = require('readline-sync');
